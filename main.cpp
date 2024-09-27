@@ -15,6 +15,7 @@ int32_t main() {
         }
     }
     std::vector<bool> good(m, true);
+    std::cout << "goida";
 
 
     return 0;
